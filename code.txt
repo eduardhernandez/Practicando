@@ -1,2 +1,2 @@
 linea 1: master
-linea 2: dev
+linea 2: master,dev
