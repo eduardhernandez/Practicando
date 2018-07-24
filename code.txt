@@ -1,5 +1,5 @@
-linea 1: master
-linea 2: master,dev 
-linea 3: dev,master
-linea 4: master
+linea 1: uno
+linea 2: DOS
+linea 3: tres
+linea 4: cuatro
  
