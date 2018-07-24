@@ -1,5 +1,5 @@
 linea 1: uno
-linea 2: DOS
+linea 2: dos*
 linea 3: tres
 linea 4: cuatro
  
